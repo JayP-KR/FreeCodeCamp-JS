@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ebe456b-0ba9-4268-af81-dbb379f560c5" name="Changes" comment="Chat gpt task is done">
-      <change beforePath="$PROJECT_DIR$/Kata/Kata2.js" beforeDir="false" afterPath="$PROJECT_DIR$/Kata/Kata2.js" afterDir="false" />
+    <list default="true" id="4ebe456b-0ba9-4268-af81-dbb379f560c5" name="Changes" comment="kata 2 done">
+      <change afterPath="$PROJECT_DIR$/Gpt Challange/CH1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +46,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Node.js.CH1.js.executor": "Run",
     "Node.js.Day2 Task.js.executor": "Run",
     "Node.js.Kata2.js.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -78,7 +80,8 @@
       <option name="presentableId" value="Default" />
       <updated>1744546332274</updated>
       <workItem from="1744546333685" duration="3543000" />
-      <workItem from="1744566836380" duration="2309000" />
+      <workItem from="1744566836380" duration="3588000" />
+      <workItem from="1744643853012" duration="1479000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -104,7 +107,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744547617484</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="kata 2 done">
+      <option name="closed" value="true" />
+      <created>1744569532690</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1744569532690</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,18 +135,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="Chat gpt task is done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chat gpt task is done" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/Kata/Kata2.js</url>
-          <line>34</line>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="kata 2 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="kata 2 done" />
   </component>
 </project>
