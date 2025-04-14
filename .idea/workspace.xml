@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ebe456b-0ba9-4268-af81-dbb379f560c5" name="Changes" comment="kata 2 done">
-      <change afterPath="$PROJECT_DIR$/Gpt Challange/CH1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4ebe456b-0ba9-4268-af81-dbb379f560c5" name="Changes" comment="challange code added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +78,7 @@
       <updated>1744546332274</updated>
       <workItem from="1744546333685" duration="3543000" />
       <workItem from="1744566836380" duration="3588000" />
-      <workItem from="1744643853012" duration="1479000" />
+      <workItem from="1744643853012" duration="1646000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -115,7 +112,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744569532690</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="challange code added">
+      <option name="closed" value="true" />
+      <created>1744652760073</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1744652760073</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +141,7 @@
     <MESSAGE value="init" />
     <MESSAGE value="Chat gpt task is done" />
     <MESSAGE value="kata 2 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="kata 2 done" />
+    <MESSAGE value="challange code added" />
+    <option name="LAST_COMMIT_MESSAGE" value="challange code added" />
   </component>
 </project>
